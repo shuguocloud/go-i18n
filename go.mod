@@ -1,4 +1,6 @@
-module github.com/mattermost/go-i18n
+module github.com/shuguocloud/go-i18n
+
+go 1.14
 
 require (
 	github.com/BurntSushi/toml v0.3.1 // indirect

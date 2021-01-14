@@ -5,8 +5,8 @@ import (
 
 	"text/template"
 
-	"github.com/mattermost/go-i18n/v2/internal"
-	"github.com/mattermost/go-i18n/v2/internal/plural"
+	"github.com/shuguocloud/go-i18n/v2/internal"
+	"github.com/shuguocloud/go-i18n/v2/internal/plural"
 	"golang.org/x/text/language"
 )
 

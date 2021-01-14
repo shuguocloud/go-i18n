@@ -10,9 +10,9 @@ import (
 	"os"
 
 	"github.com/BurntSushi/toml"
-	"github.com/mattermost/go-i18n/v2/i18n"
-	"github.com/mattermost/go-i18n/v2/internal"
-	"github.com/mattermost/go-i18n/v2/internal/plural"
+	"github.com/shuguocloud/go-i18n/v2/i18n"
+	"github.com/shuguocloud/go-i18n/v2/internal"
+	"github.com/shuguocloud/go-i18n/v2/internal/plural"
 	"golang.org/x/text/language"
 	yaml "gopkg.in/yaml.v2"
 )
